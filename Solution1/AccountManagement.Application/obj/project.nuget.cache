@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "l9nxIUjoB4JRxajAd8mMrvvIWMD50N7VGtjrp+vu4PEW7zzbxOIRx+kUNu9KCijxigqP26Hs0jtULmf4X6eJVw==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\ASPNetCore\\authentication&authorization\\Solution1\\AccountManagement.Application\\AccountManagement.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\STRIX\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.4\\microsoft.aspnetcore.http.features.5.0.4.nupkg.sha512",
+    "C:\\Users\\STRIX\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\STRIX\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
