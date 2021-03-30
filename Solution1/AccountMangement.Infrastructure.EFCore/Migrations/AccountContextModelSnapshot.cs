@@ -52,6 +52,9 @@ namespace AccountMangement.Infrastructure.EFCore.Migrations
                     b.Property<long>("RoleId")
                         .HasColumnType("bigint");
 
+                    b.Property<string>("Token")
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("Username")
                         .IsRequired()
                         .HasMaxLength(100)
@@ -97,7 +100,7 @@ namespace AccountMangement.Infrastructure.EFCore.Migrations
 
             modelBuilder.Entity("AccountManagement.Domain.RoleAgg.Role", b =>
                 {
-                    b.OwnsMany("AccountManagement.Domain.RoleAgg.Permission", "Permissions", b1 =>
+                    b.OwnsMany("AccountManagement.Domain.RoleAgg.Permission", "GetPermissions", b1 =>
                         {
                             b1.Property<long>("Id")
                                 .ValueGeneratedOnAdd()
@@ -122,7 +125,7 @@ namespace AccountMangement.Infrastructure.EFCore.Migrations
                             b1.Navigation("Role");
                         });
 
-                    b.Navigation("Permissions");
+                    b.Navigation("GetPermissions");
                 });
 
             modelBuilder.Entity("AccountManagement.Domain.RoleAgg.Role", b =>

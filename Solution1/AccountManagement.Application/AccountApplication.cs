@@ -79,9 +79,11 @@ namespace AccountManagement.Application
             var authViewModel = new AuthViewModel(account.Id, account.RoleId, account.Fullname
                 , account.Username, account.Mobile, permissions);
 
-            _authHelper.Signin(authViewModel);
+            var tokenString = _authHelper.Signin(authViewModel);
 
-            return operation.Succedded();
+            SetToken(new SetToken(account.Id, tokenString));
+
+            return operation.Succedded(tokenString);
         }
 
         public EditAccount GetDetails(long id)
@@ -97,6 +99,19 @@ namespace AccountManagement.Application
         public List<AccountViewModel> GetAccounts()
         {
             throw new System.NotImplementedException();
+        }
+
+        public OperationResult SetToken(SetToken command)
+        {
+            var operation = new OperationResult();
+            var account = _accountRepository.Get(command.Id);
+
+            if (account == null)
+                return operation.Failed(ApplicationMessages.RecordNotFound);
+
+            account.SetToken(command.Token);
+            _accountRepository.SaveChanges();
+            return operation.Succedded();
         }
     }
 }

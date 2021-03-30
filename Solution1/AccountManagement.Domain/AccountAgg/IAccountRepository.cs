@@ -7,7 +7,7 @@ namespace AccountManagement.Domain.AccountAgg
 {
     public interface IAccountRepository 
     {
-        long Get(Account id);
+        Account Get(long id);
         List<long> Get();
         void Create(Account entity);
         bool Exists(Func<Account, bool> expression);

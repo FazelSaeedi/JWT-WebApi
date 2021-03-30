@@ -17,8 +17,7 @@ namespace AccountManagement.Domain.AccountAgg
         public string Mobile { get; private set; }
         public string ProfilePhoto { get; private set; }
         public DateTime CreataionDate { get; private set; }
-
-
+        public string Token { get; private set; }
         public long RoleId { get; private set; }
         public Role Role { get; private set; }
 
@@ -58,6 +57,11 @@ namespace AccountManagement.Domain.AccountAgg
         public void ChangePassword(string password)
         {
             Password = password;
+        }
+
+        public void SetToken(string token)
+        {
+            Token = token;
         }
     }
 }

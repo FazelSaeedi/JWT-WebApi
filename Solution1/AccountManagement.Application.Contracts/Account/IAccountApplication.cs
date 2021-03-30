@@ -13,5 +13,6 @@ namespace AccountManagement.Application.Contracts.Account
         EditAccount GetDetails(long id);
         void Logout();
         List<AccountViewModel> GetAccounts();
+        OperationResult SetToken(SetToken command);
     }
 }

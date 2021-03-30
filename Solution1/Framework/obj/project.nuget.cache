@@ -1,15 +1,22 @@
 {
   "version": 2,
-  "dgSpecHash": "2CYMtc1qFYbV14naH1UXXFIqN0Ji5aHSCMx6f+6oEaB0Ntb4Y2ri3b7IzRuMD+ITqaf3rLriHgn3dYSA78Psyw==",
+  "dgSpecHash": "jwrKzTktaqdzpCYXoZ+MRc1xJwv2aVadkLI70XNWIDfyXQaPr3mzb9GlXGX+7eXoc8cSqDGDlClSshEElEprcw==",
   "success": true,
   "projectFilePath": "D:\\Projects\\ASPNetCore\\authentication&authorization\\Solution1\\Framework\\Framework.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\STRIX\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\STRIX\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\STRIX\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\STRIX\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0-preview.2.21154.6\\microsoft.extensions.dependencyinjection.abstractions.6.0.0-preview.2.21154.6.nupkg.sha512",
     "C:\\Users\\STRIX\\.nuget\\packages\\microsoft.extensions.options\\6.0.0-preview.2.21154.6\\microsoft.extensions.options.6.0.0-preview.2.21154.6.nupkg.sha512",
     "C:\\Users\\STRIX\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0-preview.2.21154.6\\microsoft.extensions.primitives.6.0.0-preview.2.21154.6.nupkg.sha512",
+    "C:\\Users\\STRIX\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.8.0\\microsoft.identitymodel.jsonwebtokens.6.8.0.nupkg.sha512",
+    "C:\\Users\\STRIX\\.nuget\\packages\\microsoft.identitymodel.logging\\6.8.0\\microsoft.identitymodel.logging.6.8.0.nupkg.sha512",
+    "C:\\Users\\STRIX\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.8.0\\microsoft.identitymodel.tokens.6.8.0.nupkg.sha512",
+    "C:\\Users\\STRIX\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\STRIX\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.8.0\\system.identitymodel.tokens.jwt.6.8.0.nupkg.sha512",
     "C:\\Users\\STRIX\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0-preview.2.21154.6\\system.runtime.compilerservices.unsafe.6.0.0-preview.2.21154.6.nupkg.sha512",
+    "C:\\Users\\STRIX\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
     "C:\\Users\\STRIX\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
   ],
   "logs": []

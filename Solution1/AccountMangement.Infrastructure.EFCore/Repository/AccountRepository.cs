@@ -18,9 +18,10 @@ namespace AccountMangement.Infrastructure.EFCore.Repository
             _context = context;
         }
 
-        public long Get(Account id)
+
+        public Account Get(long id)
         {
-            throw new NotImplementedException();
+            return _context.Find<Account>(id);
         }
 
         public List<long> Get()

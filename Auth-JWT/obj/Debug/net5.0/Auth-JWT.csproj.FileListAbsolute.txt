@@ -79,3 +79,11 @@ D:\Projects\ASPNetCore\authentication&authorization\Auth-JWT\bin\Debug\net5.0\Ac
 D:\Projects\ASPNetCore\authentication&authorization\Auth-JWT\bin\Debug\net5.0\AccountMangement.Infrastructure.EFCore.pdb
 D:\Projects\ASPNetCore\authentication&authorization\Auth-JWT\bin\Debug\net5.0\Humanizer.dll
 D:\Projects\ASPNetCore\authentication&authorization\Auth-JWT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects\ASPNetCore\authentication&authorization\Auth-JWT\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Projects\ASPNetCore\authentication&authorization\Auth-JWT\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Projects\ASPNetCore\authentication&authorization\Auth-JWT\bin\Debug\net5.0\System.Web.Razor.dll
+D:\Projects\ASPNetCore\authentication&authorization\Auth-JWT\bin\Debug\net5.0\System.Web.Helpers.dll
+D:\Projects\ASPNetCore\authentication&authorization\Auth-JWT\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+D:\Projects\ASPNetCore\authentication&authorization\Auth-JWT\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+D:\Projects\ASPNetCore\authentication&authorization\Auth-JWT\bin\Debug\net5.0\System.Web.WebPages.dll
+D:\Projects\ASPNetCore\authentication&authorization\Auth-JWT\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll

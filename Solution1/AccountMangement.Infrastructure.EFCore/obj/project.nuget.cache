@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ELSmmsSmRpdsc6jP+C61xbGD3mS0S47hIp3EbJS67YKOOeCMoff00H28BaUsLad2MMuS3hIDZAtBNpDVyyemog==",
+  "dgSpecHash": "AV/0jc1QHKXE86+WyVjMehlC2xGWUsHyGamf9w0GhZt1bBpjDMnFkfXqt1heUSjekIrYSi5f8QCRL7ep2lreCg==",
   "success": true,
   "projectFilePath": "D:\\Projects\\ASPNetCore\\authentication&authorization\\Solution1\\AccountMangement.Infrastructure.EFCore\\AccountMangement.Infrastructure.EFCore.csproj",
   "expectedPackageFiles": [
@@ -35,6 +35,7 @@
     "C:\\Users\\STRIX\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\STRIX\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\STRIX\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\STRIX\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\STRIX\\.nuget\\packages\\system.collections.immutable\\6.0.0-preview.2.21154.6\\system.collections.immutable.6.0.0-preview.2.21154.6.nupkg.sha512",
     "C:\\Users\\STRIX\\.nuget\\packages\\system.componentmodel.annotations\\6.0.0-preview.2.21154.6\\system.componentmodel.annotations.6.0.0-preview.2.21154.6.nupkg.sha512",
     "C:\\Users\\STRIX\\.nuget\\packages\\system.configuration.configurationmanager\\4.7.0\\system.configuration.configurationmanager.4.7.0.nupkg.sha512",
