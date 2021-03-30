@@ -10,3 +10,8 @@ D:\Projects\ASPNetCore\authentication&authorization\Solution1\AccountManagement.
 D:\Projects\ASPNetCore\authentication&authorization\Solution1\AccountManagement.Domain\obj\Debug\net5.0\AccountManagement.Domain.dll
 D:\Projects\ASPNetCore\authentication&authorization\Solution1\AccountManagement.Domain\obj\Debug\net5.0\ref\AccountManagement.Domain.dll
 D:\Projects\ASPNetCore\authentication&authorization\Solution1\AccountManagement.Domain\obj\Debug\net5.0\AccountManagement.Domain.pdb
+D:\Projects\ASPNetCore\authentication&authorization\Solution1\AccountManagement.Domain\bin\Debug\net5.0\AccountManagement.Application.Contracts.dll
+D:\Projects\ASPNetCore\authentication&authorization\Solution1\AccountManagement.Domain\bin\Debug\net5.0\Framework.dll
+D:\Projects\ASPNetCore\authentication&authorization\Solution1\AccountManagement.Domain\bin\Debug\net5.0\AccountManagement.Application.Contracts.pdb
+D:\Projects\ASPNetCore\authentication&authorization\Solution1\AccountManagement.Domain\bin\Debug\net5.0\Framework.pdb
+D:\Projects\ASPNetCore\authentication&authorization\Solution1\AccountManagement.Domain\obj\Debug\net5.0\AccountManagement.Domain.csproj.CopyComplete

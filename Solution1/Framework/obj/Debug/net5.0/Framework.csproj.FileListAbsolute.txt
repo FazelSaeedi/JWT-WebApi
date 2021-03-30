@@ -1,0 +1,12 @@
+D:\Projects\ASPNetCore\authentication&authorization\Solution1\Framework\bin\Debug\net5.0\Framework.deps.json
+D:\Projects\ASPNetCore\authentication&authorization\Solution1\Framework\bin\Debug\net5.0\Framework.dll
+D:\Projects\ASPNetCore\authentication&authorization\Solution1\Framework\bin\Debug\net5.0\ref\Framework.dll
+D:\Projects\ASPNetCore\authentication&authorization\Solution1\Framework\bin\Debug\net5.0\Framework.pdb
+D:\Projects\ASPNetCore\authentication&authorization\Solution1\Framework\obj\Debug\net5.0\Framework.csprojAssemblyReference.cache
+D:\Projects\ASPNetCore\authentication&authorization\Solution1\Framework\obj\Debug\net5.0\Framework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ASPNetCore\authentication&authorization\Solution1\Framework\obj\Debug\net5.0\Framework.AssemblyInfoInputs.cache
+D:\Projects\ASPNetCore\authentication&authorization\Solution1\Framework\obj\Debug\net5.0\Framework.AssemblyInfo.cs
+D:\Projects\ASPNetCore\authentication&authorization\Solution1\Framework\obj\Debug\net5.0\Framework.csproj.CoreCompileInputs.cache
+D:\Projects\ASPNetCore\authentication&authorization\Solution1\Framework\obj\Debug\net5.0\Framework.dll
+D:\Projects\ASPNetCore\authentication&authorization\Solution1\Framework\obj\Debug\net5.0\ref\Framework.dll
+D:\Projects\ASPNetCore\authentication&authorization\Solution1\Framework\obj\Debug\net5.0\Framework.pdb

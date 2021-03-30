@@ -1,0 +1,15 @@
+D:\Projects\ASPNetCore\authentication&authorization\Solution1\AccountManagement.Application.Contracts\bin\Debug\net5.0\AccountManagement.Application.Contracts.deps.json
+D:\Projects\ASPNetCore\authentication&authorization\Solution1\AccountManagement.Application.Contracts\bin\Debug\net5.0\AccountManagement.Application.Contracts.dll
+D:\Projects\ASPNetCore\authentication&authorization\Solution1\AccountManagement.Application.Contracts\bin\Debug\net5.0\ref\AccountManagement.Application.Contracts.dll
+D:\Projects\ASPNetCore\authentication&authorization\Solution1\AccountManagement.Application.Contracts\bin\Debug\net5.0\AccountManagement.Application.Contracts.pdb
+D:\Projects\ASPNetCore\authentication&authorization\Solution1\AccountManagement.Application.Contracts\obj\Debug\net5.0\AccountManagement.Application.Contracts.csprojAssemblyReference.cache
+D:\Projects\ASPNetCore\authentication&authorization\Solution1\AccountManagement.Application.Contracts\obj\Debug\net5.0\AccountManagement.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ASPNetCore\authentication&authorization\Solution1\AccountManagement.Application.Contracts\obj\Debug\net5.0\AccountManagement.Application.Contracts.AssemblyInfoInputs.cache
+D:\Projects\ASPNetCore\authentication&authorization\Solution1\AccountManagement.Application.Contracts\obj\Debug\net5.0\AccountManagement.Application.Contracts.AssemblyInfo.cs
+D:\Projects\ASPNetCore\authentication&authorization\Solution1\AccountManagement.Application.Contracts\obj\Debug\net5.0\AccountManagement.Application.Contracts.csproj.CoreCompileInputs.cache
+D:\Projects\ASPNetCore\authentication&authorization\Solution1\AccountManagement.Application.Contracts\obj\Debug\net5.0\AccountManagement.Application.Contracts.dll
+D:\Projects\ASPNetCore\authentication&authorization\Solution1\AccountManagement.Application.Contracts\obj\Debug\net5.0\ref\AccountManagement.Application.Contracts.dll
+D:\Projects\ASPNetCore\authentication&authorization\Solution1\AccountManagement.Application.Contracts\obj\Debug\net5.0\AccountManagement.Application.Contracts.pdb
+D:\Projects\ASPNetCore\authentication&authorization\Solution1\AccountManagement.Application.Contracts\bin\Debug\net5.0\Framework.dll
+D:\Projects\ASPNetCore\authentication&authorization\Solution1\AccountManagement.Application.Contracts\bin\Debug\net5.0\Framework.pdb
+D:\Projects\ASPNetCore\authentication&authorization\Solution1\AccountManagement.Application.Contracts\obj\Debug\net5.0\AccountManagement.Application.Contracts.csproj.CopyComplete

@@ -38,6 +38,7 @@ namespace AccountManagement.Domain.AccountAgg
 
         }
 
+
         public void Edit(long id, string fullname, string username, string password, string mobile, string profilePhoto, long roleId)
         {
             Id = id;
