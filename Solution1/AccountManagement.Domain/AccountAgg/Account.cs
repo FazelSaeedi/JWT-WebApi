@@ -22,17 +22,18 @@ namespace AccountManagement.Domain.AccountAgg
         public long RoleId { get; private set; }
         public Role Role { get; private set; }
 
-        public Account(long id, string fullname, string username, string password, string mobile, string profilePhoto, long roleId)
+        public Account(string fullname, string username, string password, string mobile,
+            long roleId, string profilePhoto)
         {
-            Id = id;
             Fullname = fullname;
             Username = username;
             Password = password;
             Mobile = mobile;
             ProfilePhoto = profilePhoto;
+            RoleId = roleId;
 
-            if (roleId == 0)
-                RoleId = 2;
+            if (roleId == 0) 
+               RoleId = 2;
 
             CreataionDate = DateTime.Now;
 

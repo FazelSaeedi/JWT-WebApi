@@ -9,8 +9,8 @@ namespace AccountManagement.Domain.AccountAgg
     {
         long Get(Account id);
         List<long> Get();
-        void Create(long entity);
-        bool Exists(Expression<Func<long , bool>> expression);
+        void Create(Account entity);
+        bool Exists(Func<Account, bool> expression);
         void SaveChanges();
 
 

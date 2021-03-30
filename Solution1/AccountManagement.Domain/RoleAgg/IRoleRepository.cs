@@ -7,7 +7,7 @@ namespace AccountManagement.Domain.RoleAgg
 {
     public interface IRoleRepository 
     {
-        long Get(Role id);
+        Role Get(long id);
         List<long> Get();
         void Create(long entity);
         bool Exists(Expression<Func<long, bool>> expression);

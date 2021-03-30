@@ -1,12 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "O1WALwwi0Mr8bsio64sOiZ/ZmsVtNiMfBTn5tdiMphXACK2P4bsd2wbcT4REICb3K/NOQn1JP2sruxpqDcEqww==",
+  "dgSpecHash": "Mdwd8ML1tGQ62TEkxZzGcnr8rTJM/zLzPHM2r/654jrRNSFHwQNZZwgMvoXC6zn5TonFCyq/AHrqftCeshj0hQ==",
   "success": true,
   "projectFilePath": "D:\\Projects\\ASPNetCore\\authentication&authorization\\Solution1\\AccountManagement.Domain\\AccountManagement.Domain.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\STRIX\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\STRIX\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.4\\microsoft.aspnetcore.http.features.5.0.4.nupkg.sha512",
-    "C:\\Users\\STRIX\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
-    "C:\\Users\\STRIX\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+    "C:\\Users\\STRIX\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0-preview.2.21154.6\\microsoft.extensions.dependencyinjection.abstractions.6.0.0-preview.2.21154.6.nupkg.sha512",
+    "C:\\Users\\STRIX\\.nuget\\packages\\microsoft.extensions.options\\6.0.0-preview.2.21154.6\\microsoft.extensions.options.6.0.0-preview.2.21154.6.nupkg.sha512",
+    "C:\\Users\\STRIX\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0-preview.2.21154.6\\microsoft.extensions.primitives.6.0.0-preview.2.21154.6.nupkg.sha512",
+    "C:\\Users\\STRIX\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512",
+    "C:\\Users\\STRIX\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0-preview.2.21154.6\\system.runtime.compilerservices.unsafe.6.0.0-preview.2.21154.6.nupkg.sha512",
+    "C:\\Users\\STRIX\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }

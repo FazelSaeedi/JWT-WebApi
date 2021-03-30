@@ -10,7 +10,13 @@ using Microsoft.OpenApi.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text.Encodings.Web;
+using System.Text.Unicode;
 using System.Threading.Tasks;
+using _0_Framework.Application;
+using AccountManagement.Configuration;
+using Framework.Application;
+using ServiceHost;
 
 namespace Auth_JWT
 {
@@ -26,6 +32,18 @@ namespace Auth_JWT
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddHttpContextAccessor();
+
+            var connectionString = Configuration.GetConnectionString("Auth-JWT");
+
+
+            AccountManagementBootstrapper.Configure(services, connectionString);
+
+
+            services.AddSingleton(HtmlEncoder.Create(UnicodeRanges.BasicLatin, UnicodeRanges.Arabic));
+
+            services.AddSingleton<IPasswordHasher, PasswordHasher>();
+            services.AddTransient<IFileUploader, FileUploader>();
 
             services.AddControllers();
             services.AddSwaggerGen(c =>
