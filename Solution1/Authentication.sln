@@ -5,6 +5,12 @@ VisualStudioVersion = 16.0.31112.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auth-JWT", "..\Auth-JWT\Auth-JWT.csproj", "{40C3FCEF-E9EB-4901-8E4F-48D09D7737F4}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AccountManagement", "AccountManagement", "{4852CF82-AD14-4123-A9D0-E8518A1039CB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AM.Domain", "AM.Domain", "{FC19588F-0355-4838-8CE7-E6E991B963D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountManagement.Domain", "AccountManagement.Domain\AccountManagement.Domain.csproj", "{8AB1A04D-56D0-4556-A8FD-08193D02292D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,9 +21,17 @@ Global
 		{40C3FCEF-E9EB-4901-8E4F-48D09D7737F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40C3FCEF-E9EB-4901-8E4F-48D09D7737F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40C3FCEF-E9EB-4901-8E4F-48D09D7737F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AB1A04D-56D0-4556-A8FD-08193D02292D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AB1A04D-56D0-4556-A8FD-08193D02292D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AB1A04D-56D0-4556-A8FD-08193D02292D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AB1A04D-56D0-4556-A8FD-08193D02292D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FC19588F-0355-4838-8CE7-E6E991B963D4} = {4852CF82-AD14-4123-A9D0-E8518A1039CB}
+		{8AB1A04D-56D0-4556-A8FD-08193D02292D} = {FC19588F-0355-4838-8CE7-E6E991B963D4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9BA6E7DA-0D9F-4950-943E-2F9E9647DF19}

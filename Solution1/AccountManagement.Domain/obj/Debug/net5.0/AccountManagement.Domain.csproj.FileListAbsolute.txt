@@ -1,0 +1,12 @@
+D:\Projects\ASPNetCore\authentication&authorization\Solution1\AccountManagement.Domain\bin\Debug\net5.0\AccountManagement.Domain.deps.json
+D:\Projects\ASPNetCore\authentication&authorization\Solution1\AccountManagement.Domain\bin\Debug\net5.0\AccountManagement.Domain.dll
+D:\Projects\ASPNetCore\authentication&authorization\Solution1\AccountManagement.Domain\bin\Debug\net5.0\ref\AccountManagement.Domain.dll
+D:\Projects\ASPNetCore\authentication&authorization\Solution1\AccountManagement.Domain\bin\Debug\net5.0\AccountManagement.Domain.pdb
+D:\Projects\ASPNetCore\authentication&authorization\Solution1\AccountManagement.Domain\obj\Debug\net5.0\AccountManagement.Domain.csprojAssemblyReference.cache
+D:\Projects\ASPNetCore\authentication&authorization\Solution1\AccountManagement.Domain\obj\Debug\net5.0\AccountManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ASPNetCore\authentication&authorization\Solution1\AccountManagement.Domain\obj\Debug\net5.0\AccountManagement.Domain.AssemblyInfoInputs.cache
+D:\Projects\ASPNetCore\authentication&authorization\Solution1\AccountManagement.Domain\obj\Debug\net5.0\AccountManagement.Domain.AssemblyInfo.cs
+D:\Projects\ASPNetCore\authentication&authorization\Solution1\AccountManagement.Domain\obj\Debug\net5.0\AccountManagement.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\ASPNetCore\authentication&authorization\Solution1\AccountManagement.Domain\obj\Debug\net5.0\AccountManagement.Domain.dll
+D:\Projects\ASPNetCore\authentication&authorization\Solution1\AccountManagement.Domain\obj\Debug\net5.0\ref\AccountManagement.Domain.dll
+D:\Projects\ASPNetCore\authentication&authorization\Solution1\AccountManagement.Domain\obj\Debug\net5.0\AccountManagement.Domain.pdb
